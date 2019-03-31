@@ -1,10 +1,10 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "0.1.0",
+	"VersionName": "0.1.1",
 	"FriendlyName": "GameplayEventSystem",
 	"Description": "Publish and subscribe to gameplay events using Gameplay Tags. Meant for easy prototyping without having to deal with Event Dispatchers.",
-	"Category": "Code",
+	"Category": "Gameplay",
 	"CreatedBy": "Vlady Veselinov",
 	"CreatedByURL": "",
 	"DocsURL": "",
